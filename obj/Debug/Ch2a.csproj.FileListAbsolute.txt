@@ -1,0 +1,5 @@
+c:\users\brad\documents\visual studio 2013\Projects\Ch2a\Ch2a\bin\Debug\Ch2a.exe.config
+c:\users\brad\documents\visual studio 2013\Projects\Ch2a\Ch2a\bin\Debug\Ch2a.exe
+c:\users\brad\documents\visual studio 2013\Projects\Ch2a\Ch2a\bin\Debug\Ch2a.pdb
+c:\users\brad\documents\visual studio 2013\Projects\Ch2a\Ch2a\obj\Debug\Ch2a.exe
+c:\users\brad\documents\visual studio 2013\Projects\Ch2a\Ch2a\obj\Debug\Ch2a.pdb
